@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+div
+{
+    column-count: 3;
+    column-gap: 10px;
+    column-rule: 5px solid gray;
+}

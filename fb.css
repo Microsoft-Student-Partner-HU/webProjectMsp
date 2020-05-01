@@ -1,0 +1,137 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color:#dde1ed;
+    height: 1200px;
+}
+.general
+{
+    background-color: #3c5a99;
+    height: 105px;
+    color: white;
+}
+.container
+{
+ width: 1170px;
+ margin: auto;
+}
+.form
+{
+    float: right;
+}
+input{
+    position: relative;
+    bottom: 8px;
+    padding: 4px;
+}
+label{
+    position: relative;
+    bottom: 40px;
+    left: 60px;
+}
+h1{
+    padding-top: 20px;
+   font-family: Segoe UI;
+}
+button{
+    margin-left: 20px;
+    line-height: 5px;
+    padding: 10px;
+    position: relative;
+    bottom: 8px;
+    background-color: #4267b2;
+    border: none;
+    color: white;
+    cursor: pointer;
+
+}
+.z{
+    position: relative;
+    left: 90px;
+}
+.margined{
+    margin-left: 300px;
+    font-size: medium;
+}
+.left{
+    width: 60%;
+}
+.right{
+    width: 40%;
+}
+.content{
+    margin-top: 70px;
+    color: black;
+}
+img{
+    margin-top: 30px;
+}
+.right{
+    float:right;
+   /* margin-top: 30px;*/
+}
+.left{
+    float: left;
+}
+form{
+    margin-top: 30px;
+}
+.input
+{
+    padding-right: 19px;
+    margin-right: 10px;
+}
+.one{
+    width: 90%;
+    margin-top: 10px;
+}
+.input{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 10px ;
+    border-color: white;
+    
+    
+}
+.cir{
+   border-radius: 20px;
+}
+.al{
+    display: inline;
+    padding-left: 5px;
+    margin-left: 5px;
+    position: relative;
+    bottom: 10px;
+    
+}
+#submit
+{
+    line-height: 10px;
+    background-color: #598d46;
+    color: white;
+    text-align: center;
+    padding-right: 50px;
+    padding-left:  50px ;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 40px;
+    border-radius: 5px;
+    border: 1px;
+    font-size:20px ;
+}
+#submit:hover{
+    opacity:0.9;
+}
+.content{
+    background-color: black;
+}
+option
+{
+    padding: 10px;
+    padding-top: 15px;
+}
+p{
+    font-size: 20px;
+}

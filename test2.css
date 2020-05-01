@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.father
+{
+    width: 400px;
+    height: 200px;
+    margin: 200px auto;
+    background-color: wheat;
+    padding: 10px;
+}
+.son
+{
+    background-color: yellow;
+    text-align: center;
+    height: 210px;
+    
+}
+.son:hover{
+    transform:translate(40px,-300px);
+}
